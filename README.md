@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Graduating in Information Systems at Ifes Campus Serra, he was a volunteer student at LEDS (Extension Laboratory in Solution Development) and works as a developer analyst at IndustriALL. He has experience with web development, and is looking to get deeper into the field of Data Science.
+
+<a href="https://www.linkedin.com/in/danilo-de-oliveira-28a024b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilosi&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

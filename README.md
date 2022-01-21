@@ -14,7 +14,7 @@ Graduating in Information Systems at Ifes Campus Serra, he was a volunteer stude
 
 💅 **Styles**: CSS3, styled-components, emotion.sh and TailwindCSS (utility first);
 
-✅ **Good Practices**: Clean Code, Semantic HTML and use of design patterns;
+✅ **Good Practices**: Clean Code, Semantic HTML, use of design patterns, agile methodology and extreme programming;
 
 ➡ **Programming Languages**: JavaScript, TypeScript, Python and C#;
 

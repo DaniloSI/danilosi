@@ -18,7 +18,7 @@ Graduating in Information Systems at Ifes Campus Serra, he was a volunteer stude
 
 ➡ **Programming Languages**: JavaScript, TypeScript, Python and C#;
 
-➡ **Framework and Libraries**: Lodash, React, Next.js, jQuery, Material-UI, Chakra-UI, Bootstrap, Dash, Pandas, etc.
+🔷 **Framework and Libraries**: Lodash, React, Next.js, jQuery, Material-UI, Chakra-UI, Bootstrap, Dash, Pandas, etc.
 
 <br />
 

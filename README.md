@@ -12,7 +12,7 @@ Graduating in Information Systems at Ifes Campus Serra, he was a volunteer stude
 
 💯 **Code Analysis**: Sonar Cloud and Sonar Qube (running on Docker);
 
-💅 **Styles**: CSS3, styled-components, emotion.sh and TailwindCSS (utility first);
+💅 **Styles**: CSS3, styled-components, emotion.sh and TailwindCSS;
 
 ✅ **Good Practices**: Clean Code, Semantic HTML, Design Patterns, Agile Methodology, Extreme Programming, Code Review, Git Flow and Conventional Commits;
 

@@ -1,9 +1,6 @@
-### About me
-
-Graduating in Information Systems at Ifes Campus Serra, he was a volunteer student at [LEDS (Extension Laboratory in Solution Development)](https://leds.serra.ifes.edu.br/) and works as a frontend developer at [Pitang](https://pitang.com/)/[BBChain](https://www.bbchain.com.br/).
-
+<!-- ### About me
 <br />
-
+ -->
 ### Technical skills
 
 🧪 **Testing**: Cypress and React Testing Library;

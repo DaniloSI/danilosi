@@ -3,7 +3,7 @@
  -->
 ### Technical skills
 
-🧪 **Testing**: Cypress and React Testing Library;
+🧪 **Testing**: Cypress, Jest and React Testing Library;
 
 🚀 **CI/CD**: Azure DevOps Pipelines, Travis CI and Github Actions;
 
@@ -11,11 +11,11 @@
 
 💅 **Styles**: CSS3, styled-components, emotion.sh and TailwindCSS;
 
-✅ **Good Practices**: Clean Code, Semantic HTML, Design Patterns, Agile Methodology, Extreme Programming, Code Review, Git Flow and Conventional Commits;
+✅ **Good Practices**: Pair Programming, Clean Code, Semantic HTML, Design Patterns, Agile Methodology, Extreme Programming, Code Review, Git Flow and Conventional Commits;
 
 ➡ **Programming Languages**: JavaScript, TypeScript, Python and C#;
 
-🔷 **Framework and Libraries**: Lodash, React, Next.js, jQuery, Material-UI, Chakra-UI, Bootstrap, .NET, ASP.NET, Entity Framework, Dash, Pandas, etc.
+🔷 **Framework and Libraries**: Lodash, React, Next.js, SWR, Redux, jQuery, TailwindCSS, Material-UI, Chakra-UI, Bootstrap, .NET, ASP.NET, Entity Framework, Dash, Pandas, etc.
 
 <br />
 

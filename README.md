@@ -15,7 +15,7 @@
 
 ➡ **Programming Languages**: JavaScript, TypeScript, Python and C#;
 
-🔷 **Framework and Libraries**: Lodash, React, Next.js, SWR, Redux, jQuery, TailwindCSS, Material-UI, Chakra-UI, Bootstrap, .NET, ASP.NET, Entity Framework, Dash, Pandas, etc.
+🔷 **Framework and Libraries**: Lodash, React, Next.js, SWR, Redux, jQuery, Material-UI, Chakra-UI, Bootstrap, .NET, ASP.NET, Entity Framework, Dash, Pandas, etc.
 
 <br />
 

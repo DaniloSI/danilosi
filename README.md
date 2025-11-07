@@ -1,5 +1,5 @@
 <p align="center">
- <img width="800" height="800" alt="Piccolo aura farming" src="https://github.com/user-attachments/assets/cbdb8baf-efc6-471f-a710-983675a1b419" />
+ <img width="400" height="400" alt="Piccolo aura farming" src="https://github.com/user-attachments/assets/cbdb8baf-efc6-471f-a710-983675a1b419" />
 </p>
 
 <!--
